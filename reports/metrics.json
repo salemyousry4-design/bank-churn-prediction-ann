@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.8565,
+  "roc_auc": 0.8555,
+  "baseline_accuracy": 0.7965,
+  "epochs_trained": 40,
+  "test_size": 2000
+}
