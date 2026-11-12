@@ -40,8 +40,8 @@ Churn_Modelling.csv ──► preprocessing ────────────
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/salemyousry4-design/Back-churn-prediction-in-ANN.git
-cd Back-churn-prediction-in-ANN
+git clone https://github.com/salemyousry4-design/bank-churn-prediction-ann.git
+cd bank-churn-prediction-ann
 pip install -r requirements.txt
 
 streamlit run app.py      # open the prediction app (a trained model is included)
